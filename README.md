@@ -4,7 +4,7 @@ This repository contains code to investigate the output tensor sizes of DINOv3 m
 
 ## Model Output Sizes
 
-The following table shows the output tensor dimensions for each DINOv3 model when processing a single image (batch size = 1):
+The following table shows the output tensor dimensions for each DINOv3 model when processing a single image.
 
 | Model Name | Feature Dimension |
 |------------|-------------------|
